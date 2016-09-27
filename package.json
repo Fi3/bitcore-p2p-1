@@ -54,6 +54,7 @@
   "dependencies": {
     "bitcore-lib": "^0.13.7",
     "bloom-filter": "^0.2.0",
+    "buffers": "Fi3/buffer",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
